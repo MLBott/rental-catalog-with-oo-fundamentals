@@ -6,3 +6,10 @@ Understand the fundamentals of Object-Oriented Software Devleopment.
 The repository contains work based on the topics below.
 
 ## Criteria
+>
+
+>
+
+>
+
+## Tech Stack
