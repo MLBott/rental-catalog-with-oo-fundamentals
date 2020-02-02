@@ -1,26 +1,10 @@
-# Object-Oriented Software Devleopment Fundamentals
+# A1
+
 ## Task
-Understand the fundamentals of Object-Oriented Software Devleopment.
+AssertExp1.java - Implementation of various functional programming methods.
 
-## Output
-The repository contains work based on the topics below.
+AssertExp1Tst.java - JUnit test of AssertExp1.java methods.
 
-## Criteria
-> Objects as Functions
+MyLinked.java - Manipulation of nodes in a linked list using various methods.
 
-> Architectural Patterns
-
-> Structural patterns
-
-> Simulation, Null Ojbects, Proxies
-
-> Object Creation
-
-> Sublcassing and Template Method
-
-> Iterator and Visitor
-
-## Tech Stack
-> Java
-
-> Git
+MyLinkedtst.java - JUnit test of MyLInked.java methods.
