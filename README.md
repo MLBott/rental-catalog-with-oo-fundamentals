@@ -4,7 +4,7 @@
 > Understand the fundamentals of Object-Oriented development.
 
 ## Output
-> The repository contains an rental check-in/check-out application basedon the the topics below.
+> The repository contains a rental check-in/check-out application based on the the topics below.
 
 ## Criteria
 > Fundamental design patterns: Strategy, Command.
