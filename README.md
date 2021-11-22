@@ -1,4 +1,4 @@
-# OO Software Development Fundamentals
+# OO Rental Catalog with Software Development Fundamentals
 
 ## Task
 > Understand the fundamentals of Object-Oriented development.
